@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Charlie Triplett ]]></title>
+        <description><![CDATA[Charlie Triplett ]]></description>
+        <link>https://thegrid.ai/charlie/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 14:02:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charlie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Things I found today in my compost bin: 1) soil, 2) catalpa tree, 3) random glassware.pic.twitter.com/emRsxXvANo" src="https://pbs.twimg.com/media/CrJIBPCW8AAzLqT.jpg:large">]]></description>
+            <link>https://twitter.com/charlietriplett/status/770757674548027396</link>
+            <guid isPermaLink="false">74f66342-b9c9-473f-a494-44a496f6f317</guid>
+            <pubDate>Wed, 31 Aug 2016 14:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be352517-ff93-451d-9af5-2981f0f5c591.png">]]></description>
+            <link>https://thegrid.ai/charlie/9bb925fa-3fbd-4fc4-abed-56dacbae7155/index.html</link>
+            <guid isPermaLink="false">9bb925fa-3fbd-4fc4-abed-56dacbae7155</guid>
+            <pubDate>Wed, 31 Aug 2016 13:59:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
