@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Thing One
+    id: 989e43be-ae1e-451f-847a-98a65b2dd1f5
+    type: content
 favicon: null
 title: 'Charlie Triplett '
 description: …is a creative designer/developer
